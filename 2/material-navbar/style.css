@@ -1,0 +1,21 @@
+article{
+	background-color: #3b8a7c;
+	position: relative;
+	padding: 15px;
+	color: white;
+}
+
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+
+span{
+	margin-left: 35px;
+}
+.div-2{
+	position: absolute;
+	top: 15px;
+	right: 30px;
+}

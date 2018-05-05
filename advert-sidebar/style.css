@@ -1,0 +1,72 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+header{
+	display: inline-block;
+	background-color: #fefcda;
+	width: 345px;
+	border: 2px solid  #eeeccc;
+}
+header div{
+	margin: 0px 15px;
+	padding-left: 0px;
+
+}
+
+.p1, .p4{
+	color: grey;
+	font-weight: bold;
+	border-bottom: 1px solid #d8d2d2;
+	padding-bottom: 10px;
+	
+}
+
+p span{
+	color: #0b63af;
+}
+.p5{
+	color: #0b63af;
+}
+p.p51 {
+	margin-top: -10px;
+	color: #0b63af;
+	margin-left: 25px;
+}
+.p5 .span2{
+	margin-left: 10px;
+}
+
+.p5 .span1{
+	color: grey;
+}
+
+
+.p6 .span1{
+	color: grey;
+	margin-left: -5px;
+}
+.p6 .span2{
+	margin-left: 3px;
+}
+
+.p2 .span1{
+	color: grey;
+}
+.p2 .span2{
+	margin-left: 10px;
+}
+.p3 span{
+	color: grey;
+}
+p.p31{
+	margin-top: -10px;
+	color: #0b63af;
+	margin-left: 25px;
+}
+
+.p3 .span2{
+	margin-left: 10px;
+	color: #0b63af;
+
+}

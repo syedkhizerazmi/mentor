@@ -1,0 +1,70 @@
+.div-1 {
+	background-image: url(images/img.png);
+	background-size: cover;
+	height: 200px;
+	width: 350px;
+	position: absolute;
+}
+.p-1 {
+	position: relative;
+	top: 150px;
+	background-color: #00000096;
+	color: white;
+	padding: 11px; 
+	font-size: 13px;
+	font-weight: bold;
+}
+.div-2 {
+	position: relative;
+	top: 200px;
+	width: 350px;
+	
+
+
+}
+.p-2 {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 0px 10px;
+
+}
+.p-3 {
+	padding: 0px 10px;
+	color: #808080;
+	font-weight: bold;
+
+}
+section {
+	border: 1px solid #dedede;
+	display: inline-block;
+	height: 350px;
+}
+body{
+	 font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
